@@ -76,5 +76,3 @@ git fetch
 git diff origin/main
 ```
 ---
-## Conclusión
-Este exercicio axuda a practicar comandos básicos de Docker e Git, así como o traballo colaborativo e o m
