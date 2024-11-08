@@ -1,5 +1,5 @@
 # Práctica 1: Comandos de Docker e Git
-Alumno de 2º ASIR
+
 ## Introdución
 Nesta práctica traballaremos con Docker e Git dende o terminal, clonando un repositorio, creando ficheiros
 ## Procedemento
